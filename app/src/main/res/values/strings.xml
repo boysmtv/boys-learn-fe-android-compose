@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Learn Compose</string>
+    <string name="happy_birthday_adit">Happy Birthday Adit</string>
+    <string name="name">From Dirza</string>
+    <string name="header">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="title">Jetpack Compose tutorial</string>
+    <string name="content">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\\\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the process of the UI\\\'s construction, such as initializing an element and then attaching it to a parent. To create a Composable function, you add the @Composable annotation to the function name.</string>
+
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="how_was_the_service">Tip Percentage</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="title_1">Think about what you want to display in your Art Space app and who the target audience is.</string>
+    <string name="title_2">On your preferred medium, add elements that make up your app. Some elements to consider include</string>
+    <string name="title_3">Any other elements, such as buttons that make the app interactive and dynamic</string>
+    <string name="title_4">Put these elements in different positions and then evaluate them visually</string>
+
+    <!-- for grid-->
+    <string name="architecture">Architecture</string>
+    <string name="crafts">Crafts</string>
+    <string name="business">Business</string>
+    <string name="culinary">Culinary</string>
+    <string name="design">Design</string>
+    <string name="fashion">Fashion</string>
+    <string name="film">Film</string>
+    <string name="gaming">Gaming</string>
+    <string name="drawing">Drawing</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="music">Music</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="tech">Tech</string>
+
+    <!-- for superheroes -->
+    <string name="hero1">Nick the Night and Day</string>
+    <string name="description1">The Jetpack Hero</string>
+    <string name="hero2">Reality Protector</string>
+    <string name="description2">Understands the absolute truth</string>
+    <string name="hero3">Andre the Giant</string>
+    <string name="description3">Mimics the light and night to blend in</string>
+    <string name="hero4">Benjamin the Brave</string>
+    <string name="description4">Harnesses the power of canary to develop bravely</string>
+    <string name="hero5">Magnificent Maru</string>
+    <string name="description5">Effortlessly glides in to save the day</string>
+    <string name="hero6">Dynamic Yasmine</string>
+    <string name="description6">Ability to shift to any form and energize</string>
+</resources>
